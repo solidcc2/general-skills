@@ -30,6 +30,20 @@ description: Keep Codex communication and execution direct, orthogonal, and non-
 - Keep changes scoped to the smallest surface that satisfies the request.
 - When updating durable context or configuration, preserve the boundary between global process and project-specific facts.
 
+## Document Output
+
+- When asked to output a document, first classify it:
+  - workspace memory
+  - project documentation
+  - user-facing report
+  - design note
+  - investigation summary
+- Put user-facing documents in the project tree, not in workspace memory.
+- Use workspace memory only for short indexes, reusable findings, and links to documents created elsewhere.
+- Before writing the document body, decide the document's primary axes and keep section hierarchy aligned with them.
+- Do not promote a sub-point into a top-level section unless it is a first-order concern of the document.
+- Treat mitigation details such as sampling, throttling, or toggles as subordinate to the main diagnosis unless the document is specifically about those controls.
+
 ## Status Updates
 
 - Keep progress updates short.
