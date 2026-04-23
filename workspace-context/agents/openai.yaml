@@ -1,0 +1,4 @@
+interface:
+  display_name: "Workspace Context"
+  short_description: "Maintain checked multi-repo project context"
+  default_prompt: "Use $workspace-context to refresh and apply the current workspace repository context before making code changes."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Operating Principles"
+  short_description: "Keep Codex direct, explicit, and non-invasive"
+  default_prompt: "Use $codex-operating-principles to keep communication concise and avoid unrequested fallback behavior."
