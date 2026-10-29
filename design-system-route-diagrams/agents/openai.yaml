@@ -1,0 +1,5 @@
+interface:
+  display_name: "系统链路图设计"
+  short_description: "绘制确定性的调用链路与迁移对比图"
+  brand_color: "#3B82F6"
+  default_prompt: "使用 $design-system-route-diagrams 设计一张保持事实准确的系统链路图。"

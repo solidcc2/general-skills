@@ -1,4 +1,4 @@
 interface:
-  display_name: "Codex Operating Principles"
-  short_description: "Keep Codex direct, explicit, and non-invasive"
-  default_prompt: "Use $codex-operating-principles to keep communication concise and avoid unrequested fallback behavior."
+  display_name: "Codex 操作原则"
+  short_description: "保持沟通直接、行为明确，不过度介入"
+  default_prompt: "使用 $codex-operating-principles 保持沟通简洁，避免未经要求的兜底行为。"

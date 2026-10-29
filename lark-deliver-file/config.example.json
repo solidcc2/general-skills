@@ -1,0 +1,14 @@
+{
+  "profile": "cli_aace3f7970399bde",
+  "root_folder_token": "fld_REPLACE_WITH_DELIVERY_ROOT",
+  "ledger": {
+    "base_token": "REPLACE_WITH_BASE_TOKEN",
+    "table_id": "tbl_REPLACE_WITH_TABLE_ID",
+    "fields": {
+      "file": "文件",
+      "recipient": "收件人",
+      "category": "分类",
+      "note": "备注"
+    }
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "飞书文件交付"
+  short_description: "将文件分类归档到飞书云盘、授权收件人并记录成功日志"
+  default_prompt: "使用 $lark-deliver-file 将这个文件分类归档到飞书云盘，授权并发送给指定收件人。"

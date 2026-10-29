@@ -1,0 +1,63 @@
+{
+  "canvas": {
+    "width": 2100,
+    "height": 1200,
+    "background": "#FFFFFF",
+    "title_color": "#102A5E",
+    "title_font_size": 34
+  },
+  "panels": {
+    "current_background": "#EFF7FF",
+    "target_background": "#F0FBF5",
+    "divider_color": "#8CB7E8",
+    "divider_width": 2,
+    "divider_dash": [8, 8]
+  },
+  "nodes": {
+    "fill": "#F8FBFF",
+    "legacy_fill": "#FFF7F5",
+    "border": "#3B82F6",
+    "border_width": 1.35,
+    "corner_radius": 12,
+    "text": "#102A5E",
+    "single_line_height": 48,
+    "two_line_height": 56,
+    "busy_middleware_height": 88
+  },
+  "routes": {
+    "line_width": 1.8,
+    "line_opacity": 0.88,
+    "halo_color": "#FFFFFF",
+    "halo_width": 3.6,
+    "halo_opacity": 0.5,
+    "lane_gap": 8,
+    "group_gap_min": 16,
+    "group_gap_max": 24,
+    "clearance": 8,
+    "badge_height": 16,
+    "badge_radius": 5,
+    "palette": [
+      "#2563EB",
+      "#7C879B",
+      "#06B6D4",
+      "#F97316",
+      "#7C3AED",
+      "#D946EF",
+      "#EAB308",
+      "#16A34A",
+      "#EF4444",
+      "#0F766E",
+      "#92400E",
+      "#65A30D"
+    ]
+  },
+  "legend": {
+    "background": "#F8FAFC",
+    "border": "#B7CDE8",
+    "text": "#334E78",
+    "position": "bottom-shared",
+    "max_rows": 2,
+    "item_content": "route-id-and-short-name",
+    "max_item_lines": 1
+  }
+}
